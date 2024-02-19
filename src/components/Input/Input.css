@@ -1,0 +1,31 @@
+.input {
+  border: 1px solid #000;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.small {
+  padding: 5px;
+  font-size: 12px;
+  width: 200px;
+}
+
+.medium {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+}
+
+.large {
+  padding: 20px;
+  font-size: 20px;
+  width: 400px;
+}
+
+.error {
+  padding: 5px;
+  font-size: 12px;
+  border-color: red;
+  width: 200px;
+}
